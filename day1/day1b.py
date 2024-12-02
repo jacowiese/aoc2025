@@ -23,5 +23,3 @@ for val1 in list1:
     sim_score_list.append(val1 * val2)
 
 print(sum(sim_score_list))
-
-
